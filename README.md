@@ -18,6 +18,10 @@ nmt-english-hindi/
 
 ## 🔧 Setup Instructions
 
+### Prerequisites
+- Python 3.8-3.12 (Python 3.13 has compatibility issues with some dependencies)
+- pip package manager
+
 ### Step 1: Download Model Files from Google Drive
 
 Download these 3 files from your Google Drive:
